@@ -1,0 +1,19 @@
+{
+  "name": "improvednoise",
+  "version": "1.0.0",
+  "description": "IMPLEMENTATION OF IMPROVED NOISE - COPYRIGHT 2002 KEN PERLIN.",
+  "main": "improvednoise.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/charlieclark/improvednoise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charlieclark/improvednoise/issues"
+  },
+  "homepage": "https://github.com/charlieclark/improvednoise"
+}
