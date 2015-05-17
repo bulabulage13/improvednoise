@@ -19,7 +19,7 @@
   for ( var i = 0; i < 256; i++ )
     p[ 256 + i ] = p[ i ] = permutation[ i ];
 
-  function noise( x, y, z ) {
+  function Noise( x, y, z ) {
     var X = Math.floor( x ) & 255,
       Y = Math.floor( y ) & 255,
       Z = Math.floor( z ) & 255;
